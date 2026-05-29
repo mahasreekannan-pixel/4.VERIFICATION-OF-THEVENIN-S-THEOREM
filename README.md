@@ -88,6 +88,10 @@ Thevenin’s equivalent circuit
 
 <img width="1600" height="1503" alt="image" src="https://github.com/user-attachments/assets/b3c142f9-fe99-4391-838d-8a9037bdbb4d" />
 
+**MARK SPLIT UP:**
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/42c0ffa7-0ca3-42db-be53-c5cfecc123b3" />
+
 
 **RESULT:**
  Thus Thevenin’s theorem is verified practically and theoretically.
